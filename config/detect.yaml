@@ -1,0 +1,8 @@
+cls_weight: src/robo_chat_gest/model_data/gesture-classifier.onnx
+det_weight: src/robo_chat_gest/model_data/yolov7-tiny-diver.onnx
+det_img_size:
+  - 416
+  - 416
+cls_img_size:
+  - 192
+  - 192
